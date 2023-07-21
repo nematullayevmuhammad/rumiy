@@ -1,0 +1,23 @@
+body {
+  background-color: rgb(2, 2, 68);
+  color: white;
+}
+h1 {
+  text-align: center;
+}
+.div {
+  border: 5px solid white;
+  border-radius: 10px;
+}
+.p {
+  text-align: center;
+}
+.page {
+  text-align: center;
+}
+p {
+  text-align: center;
+}
+ol {
+  text-decoration: line-through;
+}
